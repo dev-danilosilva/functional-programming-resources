@@ -3,7 +3,7 @@
 
 ## What is this repository about?
 
-Learning a new preogramming paridigm, specially functional programming, can be a wonderful path of discoveries and new possibilities. But it can be hard and challenging as well. Because of it, I decided to share through this repositorie the materials I have been using to learn this amazing way of resoning about software development.
+Learning a new programming paridigm, specially functional programming, can be a wonderful path of discoveries and new possibilities. But it can be hard and challenging as well. Because of it, I decided to share through this repositorie the materials I have been using to learn this amazing way of resoning about software development.
 
 Here I will list some books, articles, videos and other materials that helped me to get into this cool subject.
 
