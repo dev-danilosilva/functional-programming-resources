@@ -10,7 +10,7 @@ Here I will list some books, articles, videos and other materials that helped me
 *You will see a lot of Haskell here, because it is my favorite functional programming language, but the principles and the ideas contained in this material can be mostly applied using whatever functional programming language you want.*
 
 
-## Books
+## Books, Articles and Tutorials
 
 - [From Simple IO to Monad Transformers (English Edition)](https://www.amazon.com.br/Simple-IO-Monad-Transformers-English-ebook/dp/B00KN6XZ1M)
 
