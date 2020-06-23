@@ -23,6 +23,8 @@ Here I will list some books, articles, videos and other materials that helped me
 - [EDX - Intro to Functional Programming](edx.org/course/introduction-to-functional-programming)
 
 
+## Videos
 
+- [HaskellRank - Tsoding Channel Playlist](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) (HackerRank problem solving with Haskell)
 
 ### (Under Construction ....)
