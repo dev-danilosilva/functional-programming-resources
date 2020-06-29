@@ -18,7 +18,7 @@ Here I will list some books, articles, videos and other materials that helped me
 
 - [Programming With Effects](https://cseweb.ucsd.edu/classes/wi11/cse230/lectures/monads.html)
 
-- [Wise Man Haskell](https://andre.tips/wmh/)
+- [Wise Man's Haskell](https://andre.tips/wmh/)
 
 - [Types and Programming Languages](https://www.amazon.com.br/Types-Programming-Languages-Press-English-ebook/dp/B00AJXZ5JE/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=types+andprogramming+languages&qid=1592892544&s=digital-text&sr=1-2-spell)
 
