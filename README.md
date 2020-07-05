@@ -1,4 +1,4 @@
-# Functional Programming Resources
+# Haskell and Functional Programming Resources
 
 
 ## What is this repository about?
