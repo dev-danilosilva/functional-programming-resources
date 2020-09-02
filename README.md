@@ -12,6 +12,8 @@ Here I will list some books, articles, videos and other materials that helped me
 
 ## Books, Articles and Tutorials
 
+- [Introduction to Functional Programming Through Lambda Calculus](https://www.amazon.com/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831)
+
 - [From Simple IO to Monad Transformers (English Edition)](https://www.amazon.com.br/Simple-IO-Monad-Transformers-English-ebook/dp/B00KN6XZ1M)
 
 - [Haskell Hard and Fast](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
