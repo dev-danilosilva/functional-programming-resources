@@ -35,4 +35,7 @@ Here I will list some books, articles, videos and other materials that helped me
 
 - [HaskellRank - Tsoding Channel Playlist](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) (HackerRank problem solving with Haskell)
 - [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+- [Haskell 101 (Google TechTalks)](https://www.youtube.com/watch?v=cTN1Qar4HSw)
+- [Haskell 102 (Google TechTalks)](https://www.youtube.com/watch?v=Ug9yJnOYR4U)
+
 
